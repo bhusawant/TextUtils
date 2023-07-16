@@ -3,7 +3,7 @@
 https://bhusawant.github.io/TextUtils/
 
 
-or 
+                or 
 
 
 https://textutils-firstreactapp.netlify.app/
